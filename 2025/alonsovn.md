@@ -1,2 +1,2 @@
-Alonso Villanueva Naranjo
-Github user: Alonsovn
+Alonso Villanueva Naranjo  
+**Github user:** Alonsovn
